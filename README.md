@@ -1,1 +1,1 @@
-# python-lab
+# TechnologiiProgramuvannia
